@@ -9,3 +9,4 @@ Just a test for NUS DevOps PC3!
 
 ### This is an even smaller headline
 
+![](CoBrand-Fintech-lab-web.jpg)
